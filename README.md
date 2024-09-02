@@ -229,4 +229,4 @@ The `Arrays` class provides methods for manipulating arrays.
 ## Further Reading
 
 - [Java Collections Framework Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/index.html)
-- [Effective Java by Joshua Bloch](https://www.oreilly.com/library/view/effective-java/9780134686097/)
+
